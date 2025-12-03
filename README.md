@@ -95,7 +95,3 @@ npm run wdio
 
 - Follow the existing pageobject getter/action split. Use `async/await` and live selectors.
 - Add screenshots to `images/` when adding new flows.
-
----
-
-If you'd like, I can also scaffold a CI workflow (GitHub Actions) that runs `npm run wdio`, or add a short example pageobject + spec template. Tell me which you prefer.
